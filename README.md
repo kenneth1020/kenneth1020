@@ -8,15 +8,13 @@ I have a Bachelor of Science in Computer Science and Engineering. <img src="http
 
 👨‍💻 I enjoy Back-End development and Database development. With my recent project contributed to ISSNAF (Italian Scientists & Scholars in North America Foundation) for my capstone and School project. I was really enthusiastic about learning about software development. I learned about ***Python Flask***, ***Google Cloud Console*** and ***Google API***, ***Intergration code***, ***Debugging***, and ***Verify Links***. My capstone contribution to my team with the back-end code is my proudest accomplishment. I put effort into explaining my functions and code in detail. It was insightful learning the process of verification links. Learning how to generate special temporary links that expire. Messing with the Gmail API for the bonus tasks. Trying to figure out how to detect if the email failed to send and why. Sadly with the time limit my code was only able to see if the email has failed to send.
 
-[ISSNAF Back-End Code](https://github.com/kenneth1020/CSE-120-backend-Code)
+<img src="https://user-images.githubusercontent.com/58241992/233557079-4989727a-a071-4e76-b905-1180804ae3f8.png" width="100px" height="50px"> [ISSNAF Back-End Code](https://github.com/kenneth1020/CSE-120-backend-Code)
 
 Another project I was excited about was the Database Final Project. Where we were free to choose any topic. My partner and I chosen a game we both enjoy "Team Fight Tactics". Demonstrating the skills we learn in our course. We develop an interactive database using ***SQLite***, ***Python***, and ***Python Flask***. I had many challenges to face developing this final project. My challenges were creating a complex search query, creating a database structure to fit the requirements, and preventing ***SQL injection***. It was invigorating for me to demostrate the knowledge and skill I learned.
 
-[Database Project](https://github.com/kenneth1020/CSE-111-Project-TFT)
-
+<img src="https://user-images.githubusercontent.com/58241992/233556992-7c7dee9d-7d53-460a-b70b-253c172243ac.png" width="100px" height="50px"> [Database Project](https://github.com/kenneth1020/CSE-111-Project-TFT)
 
 🎮 Outside the world of technology. I enjoy getting better and learning new skills. My hobbies ranges from **gaming**, **watching shows**, **writing**, **Dungeon & Dragons** and **cooking**
-
 
 ## Languages 🔧
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]((https://www.linkedin.com/in/errortran/))
