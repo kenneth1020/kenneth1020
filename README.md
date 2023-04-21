@@ -19,7 +19,7 @@ I'm Kenneth Tran, a Computer Programmer (Aiming at Back End Development or Datab
 
 ### Contact Information
 - [![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=linkedin&logoColor=0A66C2)]((https://www.linkedin.com/in/errortran/)) **https://www.linkedin.com/in/errortran/**
-- [![Google Messages](https://img.shields.io/badge/-Phone_Number-000?&logo=googlemessages&logoColor=999999)]((https://www.linkedin.com/in/errortran/)) **1-209-834-7025**
-- [![Email](https://img.shields.io/badge/-Gmail-000?&logo=gmail&logoColor=EA4335)]((https://www.linkedin.com/in/errortran/)) **kenneththongtran@gmail.com**
+- [![Google Messages](https://img.shields.io/badge/-Phone_Number-000?&logo=googlemessages&logoColor=999999)]((1-209-834-7025)) **1-209-834-7025**
+- [![Email](https://img.shields.io/badge/-Gmail-000?&logo=gmail&logoColor=EA4335)]((kenneththongtran@gmail.com)) **kenneththongtran@gmail.com**
 
 
