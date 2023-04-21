@@ -1,5 +1,5 @@
 ### Hello there, I am kenneth1020
-I'm Kenneth Tran, a Computer Programmer (Aiming at Back End Development and Database Engineer) graduated from **University of California, Merced**. I have a Bachelor of Science in Computer Science and Engineering. 
+I'm Kenneth Tran, a Computer Programmer (Aiming at Back End Development or Database Engineer) graduated from **University of California, Merced**. I have a Bachelor of Science in Computer Science and Engineering. 
 ### Languages
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]((https://www.linkedin.com/in/errortran/))
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)]((https://www.linkedin.com/in/errortran/))
