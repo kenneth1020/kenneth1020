@@ -34,7 +34,7 @@ Another project I was excited about was the Database Final Project. Where we wer
 [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-000?&logo=visualstudio&logoColor=5C2D91)]((https://www.linkedin.com/in/errortran/))
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-000?&logo=visualstudiocode&logoColor=007ACC)]((https://www.linkedin.com/in/errortran/))
 [![Github](https://img.shields.io/badge/-Github-000?&logo=github&logoColor=FC6D26)]((https://www.linkedin.com/in/errortran/))
-[![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)]((https://www.linkedin.com/in/errortran/))
+<!-- +[![Git](https://img.shields.io/badge/-Git-000?&logo=git&logoColor=F05032)]((https://www.linkedin.com/in/errortran/))+ -->
 [![Google Consule Cloud](https://img.shields.io/badge/-Google_Cloud_Console-000?&logo=googleassistant&logoColor=4285F4)]((https://www.linkedin.com/in/errortran/))
 
 ### Contact Information 📫 
