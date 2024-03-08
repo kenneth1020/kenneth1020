@@ -12,7 +12,7 @@ I have a Bachelor of Science in Computer Science and Engineering. <img src="http
 
 Another project I was excited about was the Database Final Project. Where we were free to choose any topic. My partner and I chosen a game we both enjoy "Team Fight Tactics". Demonstrating the skills we learn in our course. We develop an interactive database using ***SQLite***, ***Python***, and ***Python Flask***. I had many challenges to face developing this final project. My challenges were creating a complex search query, creating a database structure to fit the requirements, and preventing ***SQL injection***. It was invigorating for me to demostrate the knowledge and skill I learned.
 
-<img src="https://user-images.githubusercontent.com/58241992/233556992-7c7dee9d-7d53-460a-b70b-253c172243ac.png" width="100px" height="50px"> [Database Project](https://github.com/kenneth1020/CSE-111-Project-TFT)
+<img src="https://user-images.githubusercontent.com/58241992/233556992-7c7dee9d-7d53-460a-b70b-253c172243ac.png" width="100px" height="50px"> [Database Project](https://github.com/kenneth1020/CSE-111-Project-TFT/tree/Test-Data-)
 
 🎮 Outside the world of technology. I enjoy getting better and learning new skills. My hobbies ranges from **gaming**, **watching shows**, **writing**, **Dungeon & Dragons** and **cooking**
 
